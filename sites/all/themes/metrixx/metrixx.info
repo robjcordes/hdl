@@ -1,0 +1,51 @@
+name = MetriXX Responsive Theme
+description = Metrixx responsive theme is a responsive theme its perfect for all sorts of corporate and business websites</b>
+core = 7.x
+
+engine = phptemplate
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/media.css
+stylesheets[all][] = css/jcarousel.css
+
+scripts[] = js/jquery-ui-1.10.3.custom.js
+scripts[] = js/jquery.jcarousel.min.js
+scripts[] = js/custom.js
+
+regions[contact_no] 	= Top Contact Number
+regions[search_bar]  	= Search Block
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[slideshow]      = Slideshow
+regions[front_welcome]  = Front Welcome
+regions[top_first]      = First top
+regions[top_second]     = Second top
+regions[top_third]      = Third top
+regions[content]        = Content
+regions[content_top]    = Content Top
+regions[google_map]     = Google Map
+regions[tab]         	= Tab
+regions[testimonials]   = Testimonials
+regions[clients]        = Clients
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+regions[footer]         = Footer
+
+features[] = logo
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+settings[breadcrumbs]  = 1
+settings[social_links]  = 1
+
+settings[facebook_url] = "http://www.facebook.com/"
+settings[twitter_url] = "https://twitter.com/"
+settings[googleplus_url] = "https://plus.google.com/"
+settings[linkedin_url] = "http://www.linkedin.com/"
+settings[skype_url] = "http://www.skype.com/"
+settings[vimeo_url] = "https://vimeo.com/"
