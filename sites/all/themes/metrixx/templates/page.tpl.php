@@ -220,7 +220,7 @@
       
     <div id="copyright">
       <p class="copyright"><?php print t('Copyright'); ?> &copy; <?php echo date("Y"); ?>,
-          Harris Dixon Trial Attorneys, Pllc  </p>
+          Harris|Dixon Trial Attorneys, PLLC  </p>
       <p class="credits"> <?php print t('Developed by'); ?>  
       <a href="http://www.principlepoint.com">Principle Point Marketing, LLC</a></p>
     <div class="clear"></div>

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a70fbb74-7837-4fbe-b2f1-0d0c879f4779" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php" />
     </list>
     <ignored path="metrixx.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="2264" column="0" lean-forward="true" selection-start-line="2264" selection-start-column="0" selection-end-line="2264" selection-end-column="0" />
+            <state relative-caret-position="485">
+              <caret line="104" column="22" lean-forward="false" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -36,9 +37,11 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
-              <folding />
+            <state relative-caret-position="926">
+              <caret line="222" column="17" lean-forward="false" selection-start-line="222" selection-start-column="17" selection-end-line="222" selection-end-column="17" />
+              <folding>
+                <element signature="e#8878#8884#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,9 +77,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from MAMP" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1247" />
-    <option name="y" value="33" />
+    <option name="y" value="75" />
     <option name="width" value="1244" />
-    <option name="height" value="1340" />
+    <option name="height" value="1298" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -411,15 +414,15 @@
       <workItem from="1491752263274" duration="1877000" />
       <workItem from="1493146989310" duration="37000" />
       <workItem from="1498157687518" duration="1996000" />
-      <workItem from="1498239005363" duration="1302000" />
+      <workItem from="1498239005363" duration="1608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15577000" />
+    <option name="totallyTimeSpent" value="15883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1247" y="33" width="1244" height="1340" extended-state="0" />
+    <frame x="1247" y="75" width="1244" height="1298" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -505,7 +508,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
           <caret line="157" column="45" lean-forward="false" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
-          <folding />
+          <folding>
+            <element signature="e#8878#8884#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -560,7 +565,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
           <caret line="157" column="45" lean-forward="false" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
-          <folding />
+          <folding>
+            <element signature="e#8878#8884#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,16 +660,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
-          <folding />
+        <state relative-caret-position="926">
+          <caret line="222" column="17" lean-forward="false" selection-start-line="222" selection-start-column="17" selection-end-line="222" selection-end-column="17" />
+          <folding>
+            <element signature="e#8878#8884#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="2264" column="0" lean-forward="true" selection-start-line="2264" selection-start-column="0" selection-end-line="2264" selection-end-column="0" />
+        <state relative-caret-position="485">
+          <caret line="104" column="22" lean-forward="false" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
           <folding />
         </state>
       </provider>
