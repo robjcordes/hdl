@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a70fbb74-7837-4fbe-b2f1-0d0c879f4779" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php" />
     </list>
     <ignored path="metrixx.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="1679" column="27" lean-forward="false" selection-start-line="1679" selection-start-column="27" selection-end-line="1679" selection-end-column="27" />
+            <state relative-caret-position="730">
+              <caret line="2264" column="0" lean-forward="true" selection-start-line="2264" selection-start-column="0" selection-end-line="2264" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,7 +36,7 @@
       <file leaf-file-name="page.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="585">
               <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
               <folding />
             </state>
@@ -413,12 +411,12 @@
       <workItem from="1491752263274" duration="1877000" />
       <workItem from="1493146989310" duration="37000" />
       <workItem from="1498157687518" duration="1996000" />
-      <workItem from="1498239005363" duration="1175000" />
+      <workItem from="1498239005363" duration="1302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15450000" />
+    <option name="totallyTimeSpent" value="15577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1247" y="33" width="1244" height="1340" extended-state="0" />
@@ -655,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="585">
           <caret line="102" column="55" lean-forward="false" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
           <folding />
         </state>
@@ -663,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/metrixx/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="1679" column="27" lean-forward="false" selection-start-line="1679" selection-start-column="27" selection-end-line="1679" selection-end-column="27" />
+        <state relative-caret-position="730">
+          <caret line="2264" column="0" lean-forward="true" selection-start-line="2264" selection-start-column="0" selection-end-line="2264" selection-end-column="0" />
           <folding />
         </state>
       </provider>
