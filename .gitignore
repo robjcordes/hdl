@@ -1,9 +1,5 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
-.idea/*
-.DS_store
-sites/all/modules/security_review/*
-.DS_Store
 
 # Ignore paths that contain user-generated content.
 sites/*/files
