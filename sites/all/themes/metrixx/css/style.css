@@ -441,7 +441,7 @@ ul.check_list li{
 }
 
 #main-menu a {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   display: block;
   color: rgb(141, 141, 141);
   text-align: center;
@@ -2455,4 +2455,8 @@ input.webform-submit.button-primary.form-submit {
   line-height: 30px;
   position: relative;
   margin-bottom: -14px;
+}
+
+#footer-area .menu-block-1 ul.menu li{
+  padding-left: 15px;
 }
