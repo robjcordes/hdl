@@ -28,6 +28,10 @@
   #head,
   #foot { padding:0 3.52%; }
 
+  /*.services .row .col { display: table;*/
+    /*width: 31%;*/
+    /*height:400px;}*/
+
 }
 
 @media only screen and (max-width: 685px){
@@ -296,7 +300,8 @@
 
   #post-content{ padding: 0 5px; }
 
-  .services .col { width: 48%; }
+  .services .col { display: block;
+    width: 48%; }
 
   .front .node{ margin-bottom: 15px; }
 
@@ -348,7 +353,7 @@
 
   .tab_testimonials_wrapper { overflow: hidden; margin: 20px 5px; }
 
-  .services .col{ width: 100%; margin: 10px 8px 10px 0; }
+  .services .col{ display: block; width: 100%; margin: 10px 8px 10px 0; }
 
   .two-col{ width: 100%; }
 }
