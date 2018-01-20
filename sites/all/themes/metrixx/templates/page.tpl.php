@@ -73,12 +73,12 @@
           <div class="social-icons">
               <ul>
                   <li><a href="<?php echo theme_get_setting('facebook_url', 'metrixx'); ?>" class="facebook" target="_blank" rel="me">Facebook</a></li>
-                  <li><a href="<?php echo theme_get_setting('twitter_url', 'metrixx'); ?>" class="twitter" target="_blank" rel="me">twitter</a></li>
+                  <!--                    <li><a href="<?php echo theme_get_setting('twitter_url', 'metrixx'); ?>" class="twitter" target="_blank" rel="me">twitter</a></li>   -->
                   <li><a href="<?php echo theme_get_setting('googleplus_url', 'metrixx'); ?>" class="googleplus" target="_blank" rel="me">googleplus</a></li>
                   <li><a href="<?php echo theme_get_setting('linkedin_url', 'metrixx'); ?>" class="linkedin" target="_blank" rel="me">linkedin</a></li>
                   <!--                    <li><a href="--><?php //echo theme_get_setting('skype_url', 'metrixx'); ?><!--" class="skype" target="_blank" rel="me">Skype</a></li>-->
                   <!--                    <li><a href="--><?php //echo theme_get_setting('vimeo_url', 'metrixx'); ?><!--" class="vimeo" target="_blank" rel="me">Vimeo</a></li>  -->
-                  <li><a href="<?php print $front_page; ?>/rss.xml" class="rss">RSS</a></li>
+                  <!--                     <li><a href="<?php print $front_page; ?>/rss.xml" class="rss">RSS</a></li> -->
               </ul>
           </div>
       <?php endif; ?>
